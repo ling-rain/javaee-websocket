@@ -8,7 +8,7 @@ mvn package wildfly:run
 
 Point your browser to http://localhost:8080/wildfly-websocket
 
-## Test with WebSpcket client
+## Test with WebSocket client
 
 URL: http://localhost:8080/wildfly-websocket/bike
 
